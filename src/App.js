@@ -9,7 +9,7 @@ import About from "./REDUXSETUP/About";
 function App(){
       return(
           <>
-          <BrowserRouter>
+          <BrowserRouter basename="/Reduxtwo">
           <Reduxprovider store={store}>
             <Routes>
                 <Route path="/" element={<Display/>}/>
