@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Reduxtwo/static/css/main.249540de.css",
-    "main.js": "/Reduxtwo/static/js/main.5e030852.js",
+    "main.js": "/Reduxtwo/static/js/main.b62bc242.js",
     "static/js/453.fc89fcfa.chunk.js": "/Reduxtwo/static/js/453.fc89fcfa.chunk.js",
     "index.html": "/Reduxtwo/index.html",
     "main.249540de.css.map": "/Reduxtwo/static/css/main.249540de.css.map",
-    "main.5e030852.js.map": "/Reduxtwo/static/js/main.5e030852.js.map",
+    "main.b62bc242.js.map": "/Reduxtwo/static/js/main.b62bc242.js.map",
     "453.fc89fcfa.chunk.js.map": "/Reduxtwo/static/js/453.fc89fcfa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.249540de.css",
-    "static/js/main.5e030852.js"
+    "static/js/main.b62bc242.js"
   ]
 }
